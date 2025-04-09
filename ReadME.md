@@ -251,3 +251,9 @@ Based on the insights from my analysis, here are actionable recommendations that
 - **Benchmark Against Time and Growth**
     
     Track how these metrics evolve over time, especially after rolling out changes, to measure impact and refine strategy continuously.
+
+**Links**
+
+[Methodology](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Methodology.md)
+
+[Python Script ](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Tech%20Startuo%20Analysis.ipynb)
