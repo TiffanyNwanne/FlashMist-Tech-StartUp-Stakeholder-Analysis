@@ -26,7 +26,7 @@ The objective of this analysis is to generate actionable insights across five st
 
 As part of FlashMist's ongoing data-driven product and user strategy, I conducted a comprehensive analysis covering **A/B testing outcomes**, **user retention behavior**, **sentiment trends and clickstream navigation patterns.**
 
-![Dashboard 1.png](FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/Dashboard_1.png)
+![Dashboard 1.png]([FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/Dashboard_1.png](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/Dashboard.png))
 
 The dashboard analysis of 50,000 users reveals key performance metrics with a 20% conversion rate and an 87% retention rate. In A/B testing, Version B of the onboarding UI led to higher conversions (55%) compared to Version A (45%), though users in Group A showed slightly better post-onboarding retention, suggesting B attracts users faster while A promotes longer engagement. Retention peaked on Wednesdays, likely linked to engagement campaigns, indicating an opportunity to time feature releases mid-week. Sentiment analysis shows an even 50/50 split between positive and negative feedback, pointing to a polarized user experience. Clickstream data reveals most users follow a simple path — “TaskCreate > TaskCreate > Logout” — highlighting a strong single-task behavior and some repetitive loops, signaling areas to streamline workflows and encourage deeper platform interaction.
 
