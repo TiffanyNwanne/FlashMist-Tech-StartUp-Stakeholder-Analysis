@@ -36,7 +36,7 @@ The dashboard analysis of 50,000 users reveals key performance metrics with a 20
 
 Which version of our new onboarding UI leads to better user conversion?  
 
-[![Preview Image](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/1.png0))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/1.png)
+[![Preview Image](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/1.png))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/1.png)
 
 What user segments respond best to each version?
 
