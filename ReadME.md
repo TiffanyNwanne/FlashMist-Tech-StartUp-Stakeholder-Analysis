@@ -50,25 +50,25 @@ What are the key drop-off points in the user lifecycle?
 
 How do product usage patterns correlate with retention?  
 
-![4.png](FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/4.png)
+[![4.png](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/4.png))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/4.png)
 
 **Chief Marketing Officer (CMO)**
 
 What are the prevailing sentiments in user-submitted feedback?  
 
-![5.png](FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/5.png)
+[![5.png](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/5.png))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/5.png)
 
 **Director of Customer Success**
 
 How do users navigate through key workflows like task creation or document sharing?
 
-![6.png](FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/6.png)
+[![6.png](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/6.png))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/6.png)
 
 The clickstream paths above are the ones users navigate the most.
 
 How does clickstream behavior relate to churn?
 
-![7.png](FlashMist%20Tech%20StartUp%20Stakeholder%20Analysis%20Report%201cf4799bb26780ec8832e363456f61f6/7.png)
+[![7.png](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/7.png))](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/7.png)
 
 ## Questions & Clarifications
 
