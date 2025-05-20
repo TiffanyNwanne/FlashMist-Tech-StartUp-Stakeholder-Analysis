@@ -23,6 +23,7 @@ SELECT
 FROM flashmist_data;
 
 ```
+[![](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/flashmist%20pgsql%20database.png)](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis/blob/main/Images/flashmist%20pgsql%20database.png)
 
 The results were then exported as a CSV file.
 
